@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil CjAlirio ![image](https://github.com/CjAlirio/CjAlirio/assets/171700749/c322e642-a630-460e-96d0-36a031eb9cfc)
+## Bem-vindo(a) Eu sou o CjAlirio ![image](https://github.com/CjAlirio/CjAlirio/assets/171700749/c322e642-a630-460e-96d0-36a031eb9cfc)
 
 
  <div>
@@ -15,10 +15,9 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Abaixo algumas das minhas redes sociais para contato!
  
 <div> 
-  
   <a href="https://www.instagram.com/alirio_santoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alírio-clarindo-dos-santos-408965117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
