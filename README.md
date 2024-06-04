@@ -1,5 +1,4 @@
-## Bem-vindo(a) Eu sou o CjAlirio ![image](https://github.com/CjAlirio/CjAlirio/assets/171700749/c322e642-a630-460e-96d0-36a031eb9cfc)
-
+## Bem-vindo(a) Eu sou o CjAlirio !
 
  <div>
    <a href="https://github.com/CjAlirio">
