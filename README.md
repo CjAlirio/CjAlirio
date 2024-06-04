@@ -15,7 +15,7 @@
  
 <br>
  
-### Redes sociais!
+### Redes sociais para contato !
  
 <div> 
   <a href = "aliriojunioo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
